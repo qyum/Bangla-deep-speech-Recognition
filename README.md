@@ -3,14 +3,14 @@ Bangla deep speech is a deep bidirectional RNN based bangla speech recogntion sy
 My major focusing for this project is to empower industrial application like searching a product by voice command on bangla speech recognition  end to end model, via an easy-to-use, efficient, smaller and scalable implementation, including training, inference & testing module,and deployment.
 
 # Dataset  
-This is own collected dataset and voice corpus generated on based of company product.Here I'am used a small size of voice corpuses like size 40-50.I can add more voice corpuses to get better result without overfitting.
+This is own collected dataset and voice corpus generated on based of company product.Here I'am used a small size of voice corpuses like size 40-50 audio files.I can add more voice corpuses to get better result without overfitting.
 
 # Annotation Tools   
 1)https://online-audio-converter.com/  
 2)https://twistedwave.com/online   
 
 # Model  
-1)rnn model,Lstm model,bidirectional-rnn model,Deep model
+1)rnn model,Lstm model,bidirectional-rnn model,Deep model  
 2)working on Rnn_Transducer_model on going
 
 # Dependency    
