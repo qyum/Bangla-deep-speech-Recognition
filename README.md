@@ -17,7 +17,9 @@ This is own collected dataset and voice corpus generated on based of company pro
  Python 3.7   
  tensorflow 2.0.0  
 
-# Project Structure
+# Project Structure:  
+Run above command:  
+_speech_recognition (2).ipynb_  
 
 # results:  
 ![Capture-1](https://user-images.githubusercontent.com/45398575/120583800-ad5e5380-c450-11eb-84b9-85779bf71f13.PNG)
