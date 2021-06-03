@@ -19,6 +19,7 @@ This is own collected dataset and voice corpus generated on based of company pro
 
 # Project Structure
 
-# results  
+# results:  
+![Capture-1](https://user-images.githubusercontent.com/45398575/120583800-ad5e5380-c450-11eb-84b9-85779bf71f13.PNG)
 
 # References
