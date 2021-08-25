@@ -3,10 +3,10 @@ Bangla deep speech recognition is a deep bidirectional RNN based bangla speech t
 Major focusing for this project is to empower industrial application like searching a product by voice command using bangla speech recognition  end to end model, via an easy-to-use, efficient, smaller and scalable implementation, including training, inference & testing module,and deployment.
 
 # Dataset
-There is two partsof voice datasets:
+There is two partsof voice datasets:   
 1)This is own collected dataset and voice corpus generated on based of company product.Here I'am used a small size of voice corpuses like size 40-50 audio files.I can add more voice corpuses to get better result to mitigate overfitting.  
-2)Bengali ASR training data set containing ~196K utterances
-  http://openslr.org/53/
+2)Bengali ASR training data set containing ~196K utterances.
+  Dataset link:http://openslr.org/53/
 # Annotation Tools   
 1)https://online-audio-converter.com/  
 2)https://twistedwave.com/online   
